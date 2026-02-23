@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "author": "Test User",
+  "settings": {
+    "enabled": true,
+    "maxItems": 100
+  }
+}
