@@ -1,0 +1,1 @@
+Verifying the action still works correctly after updating field descriptions
