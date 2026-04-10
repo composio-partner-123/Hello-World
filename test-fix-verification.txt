@@ -1,0 +1,1 @@
+This file tests the permission fix for blob creation
