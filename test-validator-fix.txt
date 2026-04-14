@@ -1,1 +1,1 @@
-This is a plain text file to test automatic Base64 encoding.
+Updated content with Base64 encoding and whitespace.
