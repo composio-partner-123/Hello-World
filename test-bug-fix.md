@@ -1,1 +1,1 @@
-This is a test to verify the bug fix works when repo contains owner/repo format.
+This is an updated version of the file to test update functionality.
