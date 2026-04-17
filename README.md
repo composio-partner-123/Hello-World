@@ -1,3 +1,3 @@
-# Hello World Updated
+# Hello World
 
-This is an updated README.
+This is an updated README file.
