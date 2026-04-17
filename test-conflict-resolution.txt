@@ -1,1 +1,1 @@
-New content to test conflict
+Initial content for testing
