@@ -1,1 +1,1 @@
-Updated content
+Should trigger conflict
