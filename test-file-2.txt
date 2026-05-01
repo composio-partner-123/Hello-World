@@ -1,1 +1,0 @@
-This is another test file to verify multiple file operations work correctly.
