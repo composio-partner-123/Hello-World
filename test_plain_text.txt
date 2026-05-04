@@ -1,0 +1,2 @@
+This is plain text content that will be automatically encoded to Base64 by the action.
+It should work correctly without any data loss.
