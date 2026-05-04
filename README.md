@@ -1,14 +1,3 @@
-# Hello World Repository
+# Hello World
 
-Welcome to the test repository!
-
-## Features
-- File operations
-- Automated testing
-- CI/CD integration
-
-## Usage
-```bash
-npm install
-npm test
-```
+This is an updated README file.
